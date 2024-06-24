@@ -6,4 +6,4 @@ Meu nome é MILENY GALDINO
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ![descriçã do GIF](https://i.gifer.com/XOsX.gif)
+  ![descriçã do GIF](https://i.gifer.com/XOsX.gif)
